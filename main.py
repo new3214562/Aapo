@@ -23,7 +23,7 @@ DB_CONFIG = {
 
 EMAIL_CONFIG = {
     "sender_email": "ditv9543@gmail.com",
-    "sender_password": "uaee_gbkf_epqq_hlsm"
+    "sender_password": "zvmr oshs ylyr ikwj"
 }
 
 # ===== CONNECT DATABASE =====
